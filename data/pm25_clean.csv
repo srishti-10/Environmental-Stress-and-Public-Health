@@ -1,0 +1,946 @@
+Country,PM25
+Kenya,10.01
+Trinidad and Tobago,10.02
+United Kingdom of Great Britain and Northern Ireland,10.06
+Grenada,10.08
+Brazil,10.09
+Denmark,10.12
+Russian Federation,10.19
+Spain,10.19
+Grenada,10.22
+Grenada,10.22
+Trinidad and Tobago,10.26
+France,10.27
+Guyana,10.33
+Austria,10.34
+Lithuania,10.37
+Haiti,10.38
+Trinidad and Tobago,10.39
+Trinidad and Tobago,10.39
+Trinidad and Tobago,10.4
+Belize,10.44
+Belize,10.44
+Belize,10.45
+France,10.46
+Mauritius,10.48
+Mauritius,10.48
+Netherlands (Kingdom of the),10.5
+Belize,10.51
+Belize,10.51
+Japan,10.51
+Mauritius,10.53
+Germany,10.55
+Denmark,10.7
+Germany,10.73
+Netherlands (Kingdom of the),10.74
+Namibia,10.81
+Japan,10.84
+Cuba,10.86
+Netherlands (Kingdom of the),10.88
+Suriname,10.89
+Brazil,10.94
+Argentina,11.07
+Belgium,11.08
+Japan,11.1
+Guyana,11.11
+Mauritius,11.13
+Netherlands (Kingdom of the),11.15
+Germany,11.15
+Argentina,11.23
+Austria,11.24
+Guyana,11.25
+Belgium,11.26
+Brazil,11.26
+Japan,11.32
+France,11.34
+Paraguay,11.46
+Austria,11.51
+Lithuania,11.52
+Latvia,11.55
+Belgium,11.57
+Panama,11.6
+Lithuania,11.67
+Guyana,11.7
+Brazil,11.75
+Panama,11.78
+Namibia,11.81
+Lithuania,11.83
+Panama,11.85
+Panama,11.89
+Germany,11.92
+Argentina,11.97
+Guyana,12.01
+Latvia,12.02
+France,12.03
+Argentina,12.04
+Panama,12.05
+Republic of Moldova,12.06
+Ukraine,12.15
+Suriname,12.17
+Malta,12.21
+Romania,12.23
+Italy,12.26
+Republic of Moldova,12.29
+Belgium,12.3
+Paraguay,12.31
+Kenya,12.33
+Zimbabwe,12.34
+Namibia,12.34
+Maldives,12.34
+Republic of Moldova,12.37
+Austria,12.42
+Paraguay,12.49
+Botswana,12.51
+Kenya,12.52
+Kenya,12.68
+Maldives,12.69
+Greece,12.7
+Republic of Moldova,12.74
+Suriname,12.78
+Morocco,12.8
+Botswana,12.82
+Argentina,12.85
+Malta,12.93
+Cuba,12.93
+Malta,12.94
+Maldives,13.0
+Cyprus,13.01
+Suriname,13.03
+Zimbabwe,13.07
+Malta,13.08
+Zimbabwe,13.08
+Ukraine,13.12
+Namibia,13.13
+Colombia,13.14
+Morocco,13.2
+Suriname,13.21
+Paraguay,13.23
+Colombia,13.26
+Romania,13.3
+Cuba,13.32
+Singapore,13.33
+Singapore,13.33
+Singapore,13.33
+Austria,13.33
+Belarus,13.41
+Morocco,13.44
+Slovenia,13.44
+Hungary,13.45
+Paraguay,13.5
+Ukraine,13.51
+Somalia,13.53
+Czechia,13.56
+Republic of Moldova,13.63
+Romania,13.71
+Morocco,13.73
+Jamaica,13.75
+Maldives,13.79
+Costa Rica,13.87
+Maldives,13.88
+Botswana,13.9
+Morocco,13.92
+Jamaica,13.99
+Italy,14.01
+Comoros,14.02
+Colombia,14.04
+Namibia,14.04
+Hungary,14.05
+Slovenia,14.07
+Slovenia,14.08
+Romania,14.11
+Latvia,14.13
+South Africa,14.21
+Italy,14.22
+Costa Rica,14.23
+Hungary,14.24
+Somalia,14.26
+Somalia,14.28
+Czechia,14.34
+Kenya,14.34
+Greece,14.37
+Comoros,14.37
+Comoros,14.38
+Somalia,14.41
+Botswana,14.42
+Zimbabwe,14.47
+United Republic of Tanzania,14.47
+Comoros,14.49
+Ukraine,14.51
+Cyprus,14.52
+Cyprus,14.55
+Slovenia,14.6
+Romania,14.61
+Greece,14.62
+Belarus,14.67
+Costa Rica,14.7
+Comoros,14.71
+Italy,14.73
+Madagascar,14.73
+Eswatini,14.77
+Botswana,14.78
+Czechia,14.82
+Jamaica,14.83
+Hungary,14.83
+Czechia,14.9
+Somalia,14.92
+Zimbabwe,15.01
+Czechia,15.03
+Costa Rica,15.06
+Eswatini,15.07
+Colombia,15.09
+Croatia,15.09
+Ukraine,15.2
+Croatia,15.22
+Croatia,15.29
+Mexico,15.31
+United Republic of Tanzania,15.36
+Nicaragua,15.46
+Costa Rica,15.46
+Cyprus,15.46
+Belarus,15.48
+Croatia,15.49
+Slovakia,15.5
+Italy,15.55
+Greece,15.58
+Latvia,15.64
+Albania,15.65
+Eswatini,15.71
+Jamaica,15.79
+Croatia,15.81
+Cuba,15.86
+Slovakia,15.89
+United Republic of Tanzania,15.93
+Venezuela (Bolivarian Republic of),15.93
+Eswatini,15.94
+Slovenia,15.94
+Colombia,15.97
+Mozambique,15.99
+Nicaragua,16.0
+Madagascar,16.02
+Hungary,16.07
+Zambia,16.1
+Venezuela (Bolivarian Republic of),16.12
+United Republic of Tanzania,16.12
+Slovakia,16.13
+Ecuador,16.14
+Greece,16.16
+Mozambique,16.17
+Ecuador,16.19
+Venezuela (Bolivarian Republic of),16.21
+United Republic of Tanzania,16.27
+Nicaragua,16.27
+Slovakia,16.27
+Albania,16.28
+Cyprus,16.29
+Seychelles,16.3
+Eswatini,16.35
+Albania,16.4
+Mozambique,16.45
+Bulgaria,16.52
+Venezuela (Bolivarian Republic of),16.55
+Ecuador,16.55
+Mexico,16.58
+Albania,16.58
+Slovakia,16.64
+Venezuela (Bolivarian Republic of),16.7
+Albania,16.7
+Malaysia,16.71
+Nicaragua,16.73
+Madagascar,16.74
+Zambia,16.9
+Ecuador,16.91
+Bhutan,16.91
+Bhutan,16.91
+Georgia,16.93
+Seychelles,16.96
+Lesotho,17.03
+South Africa,17.04
+Nicaragua,17.07
+Belarus,17.19
+Bulgaria,17.29
+Zambia,17.29
+Cambodia,17.3
+Ecuador,17.31
+Lesotho,17.35
+Poland,17.36
+Cambodia,17.43
+Seychelles,17.44
+Seychelles,17.44
+Belarus,17.51
+Mozambique,17.51
+Lesotho,17.6
+Jamaica,17.6
+Viet Nam,17.67
+Indonesia,17.74
+Israel,17.79
+Cambodia,17.8
+Mexico,17.83
+Montenegro,17.89
+Montenegro,17.93
+Malawi,18.18
+Montenegro,18.3
+Cambodia,18.35
+Madagascar,18.43
+Mexico,18.43
+Indonesia,18.45
+Bulgaria,18.49
+Mozambique,18.52
+Malawi,18.54
+Lesotho,18.55
+Bulgaria,18.56
+Malawi,18.57
+Honduras,18.59
+Djibouti,18.62
+Bulgaria,18.63
+Georgia,18.64
+Cuba,18.71
+Israel,18.76
+Chile,18.82
+Poland,18.83
+Zambia,18.85
+Honduras,18.93
+Mexico,19.04
+Georgia,19.06
+Honduras,19.08
+Guatemala,19.19
+Montenegro,19.3
+Indonesia,19.34
+Honduras,19.42
+Zambia,19.43
+Israel,19.47
+Poland,19.51
+Chile,19.57
+Israel,19.65
+Montenegro,19.69
+Honduras,19.75
+South Africa,19.75
+Timor-Leste,19.79
+Cambodia,19.8
+Djibouti,19.81
+Philippines,19.82
+Poland,19.9
+Indonesia,19.93
+Djibouti,19.98
+South Sudan,20.11
+South Sudan,20.18
+Malawi,20.18
+Poland,20.36
+Lesotho,20.41
+El Salvador,20.42
+Israel,20.42
+Guatemala,20.45
+Timor-Leste,20.45
+Timor-Leste,20.47
+Chile,20.49
+Lao People's Democratic Republic,20.54
+South Sudan,20.65
+Djibouti,20.72
+Guatemala,20.75
+Malaysia,20.76
+Malawi,20.82
+Georgia,20.85
+Ethiopia,20.87
+Serbia,20.87
+Madagascar,20.89
+Viet Nam,20.89
+Viet Nam,20.93
+Sudan,21.0
+Djibouti,21.04
+Lao People's Democratic Republic,21.15
+Indonesia,21.29
+South Sudan,21.36
+Sudan,21.43
+Philippines,21.44
+El Salvador,21.51
+Malaysia,21.52
+Georgia,21.66
+South Africa,21.69
+Algeria,21.74
+Serbia,21.74
+Timor-Leste,21.77
+Guatemala,21.78
+Ethiopia,21.8
+South Sudan,21.87
+Serbia,21.91
+Republic of Korea,21.95
+Viet Nam,22.12
+El Salvador,22.15
+Chile,22.16
+Ethiopia,22.23
+Sudan,22.24
+Timor-Leste,22.26
+Serbia,22.33
+Algeria,22.38
+Philippines,22.45
+Eritrea,22.48
+Chile,22.63
+Serbia,22.67
+Algeria,22.68
+Eritrea,22.74
+El Salvador,22.76
+Gabon,22.76
+Lebanon,22.79
+Algeria,22.85
+Ethiopia,22.94
+Sri Lanka,22.95
+Türkiye,23.14
+Sri Lanka,23.15
+North Macedonia,23.17
+Türkiye,23.22
+Congo,23.22
+Türkiye,23.25
+Viet Nam,23.28
+Türkiye,23.28
+Lao People's Democratic Republic,23.3
+Guatemala,23.31
+Türkiye,23.34
+Angola,23.35
+Azerbaijan,23.43
+Sudan,23.46
+Ethiopia,23.5
+Eritrea,23.55
+Kazakhstan,23.7
+Malaysia,23.74
+Algeria,23.75
+Lebanon,23.77
+South Africa,23.78
+North Macedonia,23.79
+El Salvador,23.84
+Thailand,23.86
+Sri Lanka,23.88
+Bosnia and Herzegovina,23.9
+Republic of Korea,24.04
+Eritrea,24.04
+Syrian Arab Republic,24.07
+Thailand,24.13
+Lao People's Democratic Republic,24.19
+Philippines,24.2
+Republic of Korea,24.22
+Lebanon,24.23
+Azerbaijan,24.25
+Lebanon,24.36
+Republic of Korea,24.38
+Sudan,24.42
+Bolivia (Plurinational State of),24.55
+Bolivia (Plurinational State of),24.55
+Lebanon,24.61
+Eritrea,24.63
+Azerbaijan,24.64
+Thailand,24.64
+Jordan,24.73
+Sri Lanka,24.79
+Tunisia,24.81
+Lao People's Democratic Republic,24.87
+Syrian Arab Republic,24.9
+Republic of Korea,25.05
+Syrian Arab Republic,25.14
+North Macedonia,25.17
+Bolivia (Plurinational State of),25.23
+Sri Lanka,25.26
+Syrian Arab Republic,25.31
+Malaysia,25.32
+Tunisia,25.35
+Philippines,25.39
+Equatorial Guinea,25.44
+Central African Republic,25.46
+Thailand,25.48
+Equatorial Guinea,25.67
+Jordan,25.76
+Jordan,25.87
+Turkmenistan,26.02
+Peru,26.07
+Bhutan,26.1
+Azerbaijan,26.18
+Bosnia and Herzegovina,26.19
+Jordan,26.28
+Gabon,26.29
+Burundi,26.31
+Thailand,26.34
+Turkmenistan,26.4
+Turkmenistan,26.41
+Turkmenistan,26.43
+Bhutan,26.44
+Jordan,26.47
+Equatorial Guinea,26.47
+Kazakhstan,26.5
+Tunisia,26.52
+Syrian Arab Republic,26.57
+Central African Republic,26.66
+Bolivia (Plurinational State of),26.89
+Myanmar,26.89
+Equatorial Guinea,27.06
+Azerbaijan,27.15
+Myanmar,27.16
+Angola,27.16
+Central African Republic,27.2
+Cabo Verde,27.36
+Tunisia,27.39
+Bolivia (Plurinational State of),27.43
+Peru,27.54
+Myanmar,27.58
+Myanmar,27.75
+Myanmar,27.85
+Burundi,27.98
+Burundi,28.0
+Libya,28.11
+Turkmenistan,28.13
+Libya,28.26
+Bosnia and Herzegovina,28.31
+Burundi,28.38
+Libya,28.4
+Armenia,28.41
+Angola,28.43
+"occupied Palestinian territory, including east Jerusalem",28.5
+North Macedonia,28.67
+Equatorial Guinea,28.68
+Tunisia,28.72
+"occupied Palestinian territory, including east Jerusalem",28.89
+Sao Tome and Principe,29.01
+Burundi,29.04
+Peru,29.07
+Democratic Republic of the Congo,29.13
+Uganda,29.45
+Congo,29.48
+Gabon,29.56
+Bosnia and Herzegovina,29.67
+Libya,29.84
+Uganda,30.04
+Libya,30.21
+Iran (Islamic Republic of),30.69
+Iran (Islamic Republic of),30.79
+Benin,30.8
+"occupied Palestinian territory, including east Jerusalem",30.82
+Cabo Verde,31.08
+China,31.13
+Benin,31.27
+Uganda,31.31
+"occupied Palestinian territory, including east Jerusalem",31.34
+Kazakhstan,31.38
+Guinea-Bissau,31.47
+Benin,31.51
+Democratic Republic of the Congo,31.58
+Iran (Islamic Republic of),31.62
+Sao Tome and Principe,31.73
+Peru,31.74
+Benin,31.78
+Central African Republic,32.17
+Uganda,32.29
+Angola,32.32
+Cabo Verde,32.35
+Liberia,32.5
+Bosnia and Herzegovina,32.53
+Benin,32.61
+Cabo Verde,32.63
+Peru,32.7
+North Macedonia,32.75
+Gabon,32.87
+"occupied Palestinian territory, including east Jerusalem",32.93
+Cabo Verde,33.14
+Angola,33.19
+Armenia,33.24
+Liberia,33.41
+Togo,33.66
+Democratic Republic of the Congo,33.73
+Sao Tome and Principe,33.75
+Togo,33.87
+Gabon,33.96
+Iran (Islamic Republic of),34.11
+Armenia,34.13
+Guinea,34.17
+Oman,34.4
+Gambia,34.42
+Oman,34.45
+Central African Republic,34.65
+Mali,34.75
+Guinea-Bissau,34.82
+Guinea-Bissau,34.85
+Oman,34.88
+Gambia,34.91
+Guinea,35.01
+Mongolia,35.04
+Mauritania,35.07
+Rwanda,35.25
+Kazakhstan,35.44
+Rwanda,35.48
+Senegal,35.53
+Rwanda,35.66
+Togo,35.66
+Nepal,35.68
+Rwanda,35.72
+Oman,35.76
+Liberia,35.8
+Cote d'Ivoire,36.04
+Cote d'Ivoire,36.04
+Kyrgyzstan,36.19
+Sao Tome and Principe,36.24
+Armenia,36.24
+Iran (Islamic Republic of),36.41
+Nepal,36.43
+Sao Tome and Principe,36.46
+Congo,36.49
+Mali,36.54
+Sierra Leone,36.64
+Nepal,36.75
+Oman,36.91
+Nepal,36.92
+Iraq,36.96
+Nepal,37.14
+Democratic Republic of the Congo,37.44
+Guinea,37.57
+Senegal,37.58
+Kyrgyzstan,37.58
+Congo,37.81
+Togo,37.88
+Mongolia,37.9
+Iraq,37.97
+Bangladesh,37.98
+Burkina Faso,38.0
+China,38.15
+Rwanda,38.18
+Sierra Leone,38.19
+Uzbekistan,38.19
+Senegal,38.21
+Armenia,38.26
+Kazakhstan,38.39
+Burkina Faso,38.47
+Mali,38.55
+Mauritania,38.62
+Chad,38.74
+Kyrgyzstan,38.77
+United Arab Emirates,38.93
+Uganda,39.01
+United Arab Emirates,39.03
+Gambia,39.1
+China,39.12
+United Arab Emirates,39.16
+Iraq,39.29
+Democratic Republic of the Congo,39.29
+Sierra Leone,39.42
+Togo,39.42
+Democratic People's Republic of Korea,39.57
+Kyrgyzstan,39.65
+Congo,39.96
+Bahamas,4.86
+Guinea-Bissau,40.06
+China,40.17
+Yemen,40.25
+Cote d'Ivoire,40.41
+Liberia,40.53
+Ghana,40.58
+Burkina Faso,40.74
+Kyrgyzstan,40.94
+Uzbekistan,40.98
+Chad,41.15
+Mongolia,41.3
+Gambia,41.4
+China,41.42
+Democratic People's Republic of Korea,41.46
+Yemen,41.61
+Yemen,41.66
+United Arab Emirates,41.75
+Democratic People's Republic of Korea,41.8
+Liberia,41.88
+Mauritania,41.98
+Senegal,42.18
+Guinea,42.38
+Bangladesh,42.47
+Guinea-Bissau,42.65
+United Arab Emirates,42.89
+Iraq,42.96
+Chad,42.97
+Yemen,43.04
+Sierra Leone,43.32
+Ghana,43.37
+Uzbekistan,43.49
+Gambia,43.5
+Yemen,43.87
+Democratic People's Republic of Korea,43.93
+Senegal,44.35
+Uzbekistan,44.55
+Mali,45.06
+Guinea,45.36
+Democratic People's Republic of Korea,45.39
+Sierra Leone,45.42
+Iraq,45.44
+India,45.63
+Bangladesh,45.99
+Burkina Faso,46.04
+Ghana,46.04
+Cote d'Ivoire,46.58
+Uzbekistan,46.63
+Egypt,46.73
+Bangladesh,46.85
+Mali,48.51
+Pakistan,48.52
+Niger,48.67
+India,49.95
+Finland,5.06
+Bahamas,5.2
+Bahamas,5.2
+Bahamas,5.2
+Canada,5.2
+Sweden,5.33
+Nauru,5.47
+Finland,5.47
+Bahamas,5.52
+Iceland,5.56
+Iceland,5.79
+Estonia,5.79
+Norway,5.83
+Sweden,5.96
+Pakistan,50.02
+Bangladesh,50.12
+Pakistan,50.13
+Niger,50.15
+India,50.17
+Ghana,50.42
+Tajikistan,50.58
+Mongolia,50.62
+Niger,50.75
+Burkina Faso,51.29
+Mauritania,51.29
+Bahrain,51.38
+Pakistan,51.59
+Bahrain,51.59
+Bahrain,51.82
+Bahrain,51.84
+India,53.03
+Qatar,53.16
+Pakistan,53.18
+Cameroon,53.31
+Tajikistan,53.65
+Tajikistan,53.85
+Chad,54.01
+Cote d'Ivoire,54.06
+Qatar,54.52
+Nigeria,54.56
+Ghana,54.63
+Mauritania,54.7
+Kuwait,54.93
+Nigeria,55.33
+Niger,55.52
+India,55.57
+Nigeria,55.64
+Afghanistan,56.0
+Nigeria,56.02
+Saudi Arabia,56.22
+Cameroon,56.37
+Nigeria,56.48
+Bahrain,56.48
+Tajikistan,56.8
+Kuwait,57.0
+Saudi Arabia,57.16
+Mongolia,58.21
+Qatar,59.04
+Egypt,59.27
+Niger,59.53
+Qatar,59.96
+Finland,6.03
+Sweden,6.03
+Iceland,6.07
+Canada,6.16
+Iceland,6.2
+Finland,6.21
+Norway,6.3
+Estonia,6.35
+Canada,6.39
+Finland,6.4
+Sweden,6.4
+United States of America,6.42
+Iceland,6.55
+Estonia,6.57
+Portugal,6.58
+Estonia,6.61
+Estonia,6.67
+Canada,6.7
+Sweden,6.71
+Brunei Darussalam,6.73
+Niue,6.74
+Niue,6.74
+Brunei Darussalam,6.76
+Tuvalu,6.81
+Tuvalu,6.81
+Brunei Darussalam,6.86
+Canada,6.87
+Brunei Darussalam,6.96
+Norway,6.96
+Cameroon,60.52
+Saudi Arabia,60.54
+Chad,60.7
+Saudi Arabia,60.73
+Saudi Arabia,60.92
+Qatar,60.94
+Cameroon,61.63
+Cameroon,62.02
+Afghanistan,62.47
+Afghanistan,62.49
+Tajikistan,62.65
+Egypt,63.16
+Kuwait,64.08
+Egypt,64.1
+Egypt,66.42
+Kuwait,67.22
+Kuwait,67.67
+Marshall Islands,7.07
+Dominican Republic,7.1
+United States of America,7.1
+Kiribati,7.18
+United States of America,7.18
+Norway,7.19
+Marshall Islands,7.21
+Fiji,7.23
+Dominican Republic,7.25
+Portugal,7.29
+Portugal,7.34
+Fiji,7.36
+Brunei Darussalam,7.36
+Tonga,7.39
+Nauru,7.4
+Nauru,7.4
+Nauru,7.4
+United States of America,7.41
+Norway,7.49
+Ireland,7.5
+Tonga,7.52
+Samoa,7.54
+Marshall Islands,7.55
+Marshall Islands,7.55
+United States of America,7.57
+Dominican Republic,7.59
+Kiribati,7.62
+Saint Kitts and Nevis,7.62
+Saint Kitts and Nevis,7.62
+Portugal,7.63
+Solomon Islands,7.64
+Micronesia (Federated States of),7.71
+Tonga,7.74
+Tonga,7.74
+Russian Federation,7.74
+Dominican Republic,7.76
+Cook Islands,7.77
+Samoa,7.78
+Micronesia (Federated States of),7.79
+Switzerland,7.79
+Cook Islands,7.8
+Palau,7.81
+Palau,7.82
+United Kingdom of Great Britain and Northern Ireland,7.82
+Solomon Islands,7.83
+Cook Islands,7.87
+Cook Islands,7.87
+Dominica,7.87
+Palau,7.92
+Palau,7.92
+Australia,7.94
+Andorra,7.96
+Kiribati,7.98
+Kiribati,7.98
+Dominican Republic,7.98
+Portugal,7.98
+Afghanistan,75.19
+Saint Kitts and Nevis,8.05
+Samoa,8.07
+Samoa,8.07
+Saint Kitts and Nevis,8.08
+Vanuatu,8.12
+Antigua and Barbuda,8.12
+Micronesia (Federated States of),8.13
+Micronesia (Federated States of),8.13
+Fiji,8.14
+Fiji,8.14
+Ireland,8.2
+Dominica,8.22
+Uruguay,8.24
+Spain,8.28
+Antigua and Barbuda,8.3
+New Zealand,8.31
+Solomon Islands,8.38
+Dominica,8.38
+Dominica,8.38
+Vanuatu,8.42
+Antigua and Barbuda,8.42
+Antigua and Barbuda,8.42
+Luxembourg,8.43
+Uruguay,8.46
+Uruguay,8.48
+Uruguay,8.51
+Andorra,8.52
+New Zealand,8.54
+Uruguay,8.6
+New Zealand,8.61
+Ireland,8.66
+Ireland,8.68
+New Zealand,8.69
+Solomon Islands,8.7
+Ireland,8.7
+Luxembourg,8.74
+Papua New Guinea,8.78
+Solomon Islands,8.78
+Denmark,8.8
+Switzerland,8.81
+United Kingdom of Great Britain and Northern Ireland,8.83
+Saint Vincent and the Grenadines,8.88
+Russian Federation,8.88
+Andorra,8.88
+Andorra,8.88
+Papua New Guinea,8.89
+Luxembourg,8.89
+New Zealand,8.93
+Australia,8.93
+Saint Lucia,8.94
+Saint Lucia,8.94
+Switzerland,8.97
+Saint Lucia,8.98
+Afghanistan,84.04
+Saint Lucia,9.0
+France,9.0
+Russian Federation,9.08
+Australia,9.08
+Vanuatu,9.09
+Vanuatu,9.09
+Haiti,9.09
+Luxembourg,9.11
+Australia,9.12
+Spain,9.14
+Barbados,9.19
+Australia,9.19
+Monaco,9.21
+Monaco,9.21
+Monaco,9.21
+Papua New Guinea,9.24
+Luxembourg,9.25
+Switzerland,9.25
+Malta,9.31
+Spain,9.34
+Haiti,9.35
+Lithuania,9.39
+Saint Vincent and the Grenadines,9.41
+Papua New Guinea,9.51
+Saint Vincent and the Grenadines,9.51
+Saint Vincent and the Grenadines,9.51
+United Kingdom of Great Britain and Northern Ireland,9.52
+Brazil,9.57
+Denmark,9.57
+Denmark,9.66
+Papua New Guinea,9.67
+Latvia,9.68
+Haiti,9.69
+United Kingdom of Great Britain and Northern Ireland,9.71
+Germany,9.72
+Spain,9.77
+Haiti,9.78
+Barbados,9.79
+Japan,9.8
+Barbados,9.83
+Barbados,9.83
+Barbados,9.84
+Grenada,9.84
+San Marino,9.85
+San Marino,9.85
+San Marino,9.85
+Russian Federation,9.86
+Switzerland,9.87
+Mauritius,9.89
+Belgium,9.91
+Netherlands (Kingdom of the),9.96
+Singapore,9.98
